@@ -205,7 +205,7 @@ div#main{
     margin:0 auto;
     padding-top:60px;
     padding-bottom: 180px;
-    background:url(../img/main-bg.jpg) center center no-repeat #000001;
+    background:url(../img/main-bg.png) center center no-repeat #000001;
     background-size:cover
 }
 
